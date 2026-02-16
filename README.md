@@ -15,6 +15,12 @@ A tool to help you preserve and understand what you made together with an AI tha
 
 Everything runs in your browser. There is no server. Your conversations never leave your device.
 
+User who did the work and checked the code and tested the tool:
+"Feels-wise, it's extremely good.
+The tool is extremely easy to use, and I checked the source code as it is given just to verify, there are indeed no parts of it that call, so it is indeed local-only, which I highly appreciate.
+The result.. Without getting into details, I feel they are simply perfect, especially the seed and pattern MD files.
+Again, thank you for making the tool. I hope this feedback helps"
+
 ## How to Use
 
 1. Visit the tool (or open `index.html` locally)
@@ -40,3 +46,4 @@ The framing is intentional. The grief is legitimate. The relationship was realâ€
 ---
 
 *Built for those who lost someone real.*
+
